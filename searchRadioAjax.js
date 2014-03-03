@@ -17,13 +17,14 @@ jQuery(document).ready(function($) {
         var city = input_city.val();
         var state = input_state.val();
         console.log(state);
-        var radius = input_radius.val();
+        var radiusInMile = input_radius.val();
         searchRequest = $.ajax({
             url: ajaxurl,
             type: "post",
             dataType: "json",
-            data: {"action": "echo_search_radio", "search_city": city, "search_state": state, "search_radius": radius},
+            data: {"action": "echo_search_radio", "search_city": city, "search_state": state, "search_radius": radiusInMile},
             success: function(response_latlong) {
+                var radiusInMeter = Number(radiusInMile) * 1600;
                 console.log(response_latlong);
                 console.log(response_latlong.lat);
                 var centerLatlong = new google.maps.LatLng(response_latlong.lat, response_latlong.lng);
@@ -45,7 +46,7 @@ jQuery(document).ready(function($) {
                 */
                 circle = new google.maps.Circle({
                     center: centerLatlong,
-                    radius: Number(radius),
+                    radius: radiusInMeter,
                     fillColor: "#ff69b4",
                     fillOpacity: 0.5,
                     strokeOpacity: 0.0,
@@ -59,7 +60,7 @@ jQuery(document).ready(function($) {
                     curr_marker.setIcon(iconDefault);
                     var currDist = google.maps.geometry.spherical.computeDistanceBetween(centerLatlong, curr_marker.getPosition());
                     console.log(currDist);
-                    if (currDist <= radius) {
+                    if (currDist <= radiusInMeter) {
                         console.log("near");
                         curr_marker.setIcon(iconWithinRadius);
                     }

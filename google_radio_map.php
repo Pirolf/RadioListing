@@ -4,6 +4,7 @@ require_once RL_PATH . 'curl/curl.php';
 add_shortcode("google_radio_map", "google_radio_map");
 
 function google_radio_map() {
+    include_once RL_PATH ."searchStationForm.php";
     $curl = new Curl;
     $client_ip = get_client_ip();
     /*
