@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <radio_station id="0">
+        <station>WUTZ</station>
+        <type>LPFM</type>
+        <city>Summertown, TN</city>
+        <state>TN</state>
+        <watt>10 Watts</watt>
+        <freq>88.3 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Summertown, TN</addr>
+        <lat>35.4347679</lat>
+        <long>-87.311689</long>
+    </radio_station>
+    <radio_station id="1">
+        <station>WPFW</station>
+        <type>Community</type>
+        <city>Washington, DC</city>
+        <state>DC</state>
+        <watt>50,000 Watts</watt>
+        <freq>89.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>1819 L St.,7th floor NW, Washington, DC 20036</addr>
+        <lat>38.9039241</lat>
+        <long>-77.0424054</long>
+    </radio_station>
+    <radio_station id="2">
+        <station>KBCS</station>
+        <type>College</type>
+        <city>Bellvue, WA</city>
+        <state>WA</state>
+        <watt>1800 Watts</watt>
+        <freq>91.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>3000 Landerholm Circle SE, Bellvue, WA 98007</addr>
+        <lat>47.5853515</lat>
+        <long>-122.1482834</long>
+    </radio_station>
+    <radio_station id="3">
+        <station>RadioPhoenix</station>
+        <type>Internet</type>
+        <city>Phoenix, AZ</city>
+        <state>AZ</state>
+        <watt />
+        <freq>Internet</freq>
+        <playedon />
+        <cast_time />
+        <addr>1202 N. 3rd Street, Suite 103, Phoenix, AZ 85004</addr>
+        <lat>33.461656</lat>
+        <long>-112.069879</long>
+    </radio_station>
+    <radio_station id="4">
+        <station>KOWA-LP</station>
+        <type>LPFM</type>
+        <city>Olympia, WA</city>
+        <state>WA</state>
+        <watt>22 Watts</watt>
+        <freq>106.5 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>816 Adams Street SE, Olympia, WA 98501</addr>
+        <lat>47.041246</lat>
+        <long>-122.897023</long>
+    </radio_station>
+    <radio_station id="5">
+        <station>WZRD</station>
+        <type>College</type>
+        <city>Chicago, IL</city>
+        <state>IL</state>
+        <watt>100 Watts</watt>
+        <freq>88.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>5500 North St. Louis Avenue, Chicago, IL 60625</addr>
+        <lat>41.9802119</lat>
+        <long>-87.7187973</long>
+    </radio_station>
+    <radio_station id="6">
+        <station>TheDetour.us</station>
+        <type>Internet</type>
+        <city>Knoxville, TN</city>
+        <state>TN</state>
+        <watt />
+        <freq>Internet</freq>
+        <playedon />
+        <cast_time />
+        <addr>PO Box 31201, Knoxville, TN 37930 USA</addr>
+        <lat>35.92</lat>
+        <long>-84.0699999</long>
+    </radio_station>
+    <radio_station id="7">
+        <station>KMUD</station>
+        <type>Community</type>
+        <city>Redway, CA</city>
+        <state>CA</state>
+        <watt>5500 Watts</watt>
+        <freq />
+        <playedon />
+        <cast_time>Thursday, 1-3pm</cast_time>
+        <addr>PO Box 135, 1144 Redway Dr, Redway, CA 95560</addr>
+        <lat>40.116631</lat>
+        <long>-123.820231</long>
+    </radio_station>
+    <radio_station id="8">
+        <station>KMUD</station>
+        <type>Community</type>
+        <city>Garberville, CA</city>
+        <state>CA</state>
+        <watt />
+        <freq>91.1 FM</freq>
+        <playedon />
+        <cast_time>Thursday, 1-3pm</cast_time>
+        <addr>Garberville, CA</addr>
+        <lat>40.097426</lat>
+        <long>-123.795023</long>
+    </radio_station>
+    <radio_station id="9">
+        <station>KMUD</station>
+        <type>Community</type>
+        <city>Shelter Cove, CA</city>
+        <state>CA</state>
+        <watt />
+        <freq>99.5 FM</freq>
+        <playedon />
+        <cast_time>Thursday, 1-3pm</cast_time>
+        <addr>Shelter Cove, CA</addr>
+        <lat>40.0304207</lat>
+        <long>-124.0730866</long>
+    </radio_station>
+    <radio_station id="10">
+        <station>KMUD</station>
+        <type>Community</type>
+        <city>Laytonville, CA</city>
+        <state>CA</state>
+        <watt />
+        <freq>90.3 FM</freq>
+        <playedon />
+        <cast_time>Thursday, 1-3pm</cast_time>
+        <addr>Laytonville, CA</addr>
+        <lat>39.6727584</lat>
+        <long>-123.499875</long>
+    </radio_station>
+    <radio_station id="11">
+        <station>KMUD</station>
+        <type>Community</type>
+        <city>Eureka, CA</city>
+        <state>CA</state>
+        <watt />
+        <freq>88.1 FM</freq>
+        <playedon />
+        <cast_time>Thursday, 1-3pm</cast_time>
+        <addr>Eureka, CA</addr>
+        <lat>40.7832294</lat>
+        <long>-124.1462202</long>
+    </radio_station>
+    <radio_station id="12">
+        <station>WPRR</station>
+        <type>Community</type>
+        <city>Ada, MI</city>
+        <state>MI</state>
+        <watt>10,000 Watts</watt>
+        <freq>1680 AM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>Ada, MI</addr>
+        <lat>42.9763554</lat>
+        <long>-85.4911345</long>
+    </radio_station>
+    <radio_station id="13">
+        <station>WPRR</station>
+        <type>Community</type>
+        <city>Grand Rapids, MI</city>
+        <state>MI</state>
+        <watt />
+        <freq>95.3 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>3778 44th Street  Grand Rapids, MI 49512</addr>
+        <lat>42.8834641</lat>
+        <long>-85.5728036</long>
+    </radio_station>
+    <radio_station id="14">
+        <station>WERU</station>
+        <type>Community</type>
+        <city>Blue Hill, ME</city>
+        <state>ME</state>
+        <watt />
+        <freq>89.9  FM</freq>
+        <playedon />
+        <cast_time>M-F 7:00 AM</cast_time>
+        <addr>1186 Acadia Highway, East Orland, Maine 04431</addr>
+        <lat>44.564801</lat>
+        <long>-68.666015</long>
+    </radio_station>
+    <radio_station id="15">
+        <station>WERU</station>
+        <type>Community</type>
+        <city>Bangor, ME</city>
+        <state>ME</state>
+        <watt />
+        <freq>99.9 FM</freq>
+        <playedon />
+        <cast_time>M-F 7:00 AM</cast_time>
+        <addr>Bangor, ME</addr>
+        <lat>44.8296695</lat>
+        <long>-68.7889794</long>
+    </radio_station>
+    <radio_station id="16">
+        <station>KKFI</station>
+        <type>Community</type>
+        <city>Kansas City, KS</city>
+        <state>MO</state>
+        <watt>100,000 Watts</watt>
+        <freq>90.1 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>3901 Main St #203, Kansas City, MO 64111</addr>
+        <lat>39.165355</lat>
+        <long>-94.580965</long>
+    </radio_station>
+    <radio_station id="17">
+        <station>WMXP-LP</station>
+        <type>LPFM</type>
+        <city>Greenville, SC</city>
+        <state>SC</state>
+        <watt>100 Watts</watt>
+        <freq>95.5 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>321 W. Antrim Dr, P.O. Box 16102 , Greenville, SC 29607</addr>
+        <lat>34.8443665</lat>
+        <long>-82.3655179</long>
+    </radio_station>
+    <radio_station id="18">
+        <station>KSKQ-LP</station>
+        <type>Community</type>
+        <city>Ashland, OR</city>
+        <state>OR</state>
+        <watt>18 Watts</watt>
+        <freq>89.5 FM</freq>
+        <playedon />
+        <cast_time>M-F 8:55 AM</cast_time>
+        <addr>330 Hersey St. #2, Ashland, Oregon 97520</addr>
+        <lat>42.201009</lat>
+        <long>-122.705504</long>
+    </radio_station>
+    <radio_station id="19">
+        <station>WSLR-LP</station>
+        <type>Community</type>
+        <city>Sarasota, FL</city>
+        <state>FL</state>
+        <watt>23 Watts</watt>
+        <freq>96.5 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>525 Kumquat Court Sarasota, FL 34236</addr>
+        <lat>27.3409908</lat>
+        <long>-82.5400809</long>
+    </radio_station>
+    <radio_station id="20">
+        <station>WLRI</station>
+        <type>LPFM</type>
+        <city>Gap, PA</city>
+        <state>PA</state>
+        <watt>21 Watts</watt>
+        <freq>92.9 FM</freq>
+        <playedon />
+        <cast_time>Hourly, News Breaks</cast_time>
+        <addr>Gap, PA</addr>
+        <lat>39.989505</lat>
+        <long>-76.0162819</long>
+    </radio_station>
+    <radio_station id="21">
+        <station>KSER</station>
+        <type>Community</type>
+        <city>Everett, WA</city>
+        <state>WA</state>
+        <watt>5800 Watts</watt>
+        <freq>90.7 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>2623 Wetmore Ave Everett, WA 98201</addr>
+        <lat>47.982341</lat>
+        <long>-122.206721</long>
+    </radio_station>
+    <radio_station id="22">
+        <station>KAOS</station>
+        <type>College</type>
+        <city>Olympia, WA</city>
+        <state>WA</state>
+        <watt>1250 Watts</watt>
+        <freq>89.3 FM</freq>
+        <playedon />
+        <cast_time>M-F 6:45 AM</cast_time>
+        <addr>2700 Evergreen Parkway NW, Olympia, WA 98505</addr>
+        <lat>47.072594</lat>
+        <long>-122.95415</long>
+    </radio_station>
+    <radio_station id="23">
+        <station>KBOO</station>
+        <type>Community</type>
+        <city>Portland, OR</city>
+        <state>OR</state>
+        <watt>25,500 Watts</watt>
+        <freq>90.7 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>20 SE 8th Avenue, Portland, OR 97214</addr>
+        <lat>45.5224825</lat>
+        <long>-122.6573466</long>
+    </radio_station>
+    <radio_station id="24">
+        <station>KBOO</station>
+        <type>Community</type>
+        <city>Hood River, OR</city>
+        <state>OR</state>
+        <watt />
+        <freq>91.9 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Hood River, OR</addr>
+        <lat>45.7060508</lat>
+        <long>-121.5309112</long>
+    </radio_station>
+    <radio_station id="25">
+        <station>KBOO</station>
+        <type>Community</type>
+        <city>Corvallis, OR</city>
+        <state>OR</state>
+        <watt />
+        <freq>104.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Corvallis, OR</addr>
+        <lat>44.5629725</lat>
+        <long>-123.2835365</long>
+    </radio_station>
+    <radio_station id="26">
+        <station>KIDE</station>
+        <type>Community</type>
+        <city>Hoopa, CA</city>
+        <state>CA</state>
+        <watt>195 Watts</watt>
+        <freq>91.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>PO Box 1220, Hoopa CA 95546</addr>
+        <lat>41.051686</lat>
+        <long>-123.6820341</long>
+    </radio_station>
+    <radio_station id="27">
+        <station>WRIR-LP</station>
+        <type>Community</type>
+        <city>Richmond, VA</city>
+        <state>VA</state>
+        <watt>42 Watts</watt>
+        <freq>97.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>P.O. Box 4787, Richmond, VA 23220</addr>
+        <lat>37.551394</lat>
+        <long>-77.4587115</long>
+    </radio_station>
+    <radio_station id="28">
+        <station>KPFT</station>
+        <type>Community</type>
+        <city>Goodrich/Livingston</city>
+        <state>TX</state>
+        <watt />
+        <freq>90.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Livingston, TX</addr>
+        <lat>30.7119535</lat>
+        <long>-94.9392605</long>
+    </radio_station>
+    <radio_station id="29">
+        <station>KPFT</station>
+        <type>Community</type>
+        <city>Galveston, TX</city>
+        <state>TX</state>
+        <watt />
+        <freq>89.5FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Galveston, TX</addr>
+        <lat>29.2190457</lat>
+        <long>-94.9265501</long>
+    </radio_station>
+    <radio_station id="30">
+        <station>KPFT</station>
+        <type>Community</type>
+        <city>Houston, TX</city>
+        <state>TX</state>
+        <watt>100,000 Watts</watt>
+        <freq>90.1 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>419 Lovett Ave, Houston, TX</addr>
+        <lat>29.7431403</lat>
+        <long>-95.3867338</long>
+    </radio_station>
+    <radio_station id="31">
+        <station>WPWC</station>
+        <type>Community</type>
+        <city>Washington, DC</city>
+        <state>DC</state>
+        <watt>5000 Watts</watt>
+        <freq>1480 AM</freq>
+        <playedon>Union Edge/ Talking Left</playedon>
+        <cast_time>&amp;Saturdays</cast_time>
+        <addr>1918 Martin Luther King Ave. SE  Washington, DC 20020</addr>
+        <lat>38.86697</lat>
+        <long>-76.98854</long>
+    </radio_station>
+    <radio_station id="32">
+        <station>WKFB</station>
+        <type>Community</type>
+        <city>Pittsburgh, PA</city>
+        <state>PA</state>
+        <watt>750 Watts</watt>
+        <freq>97.5 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>Jeannette, Pennsylvania</addr>
+        <lat>40.3266125</lat>
+        <long>-79.61587</long>
+    </radio_station>
+    <radio_station id="33">
+        <station>WXPI</station>
+        <type>Community</type>
+        <city>Williamsport, PA</city>
+        <state>PA</state>
+        <watt>95 Watts</watt>
+        <freq>88.5 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>1307 Park Ave Box #1, Williamsport Pa 17701</addr>
+        <lat>41.2414233</lat>
+        <long>-77.0208819</long>
+    </radio_station>
+    <radio_station id="34">
+        <station>WNJR</station>
+        <type>College</type>
+        <city>Washington, PA</city>
+        <state>PA</state>
+        <watt>950 Watts</watt>
+        <freq>91.7 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>60 South Lincoln Street, Washington PA, 15301</addr>
+        <lat>40.1710906</lat>
+        <long>-80.2411375</long>
+    </radio_station>
+    <radio_station id="35">
+        <station>WEFT</station>
+        <type>Community</type>
+        <city>Champaign, IL</city>
+        <state>IL</state>
+        <watt>8500 Watts</watt>
+        <freq>90.1 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>113 N. Market St., Champaign, IL. 61820</addr>
+        <lat>40.1168357</lat>
+        <long>-88.2418623</long>
+    </radio_station>
+    <radio_station id="36">
+        <station>WAZU</station>
+        <type>Community</type>
+        <city>Peoria, IL</city>
+        <state>IL</state>
+        <watt>500 Watts</watt>
+        <freq>90.7 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>Peoria, IL</addr>
+        <lat>40.748037</lat>
+        <long>-89.6235016</long>
+    </radio_station>
+    <radio_station id="37">
+        <station>KGHI</station>
+        <type>Community</type>
+        <city>Westport, WA</city>
+        <state>WA</state>
+        <watt>1900 Watts</watt>
+        <freq>91.5 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>PO Box 1892, Westport, WA 98595-1892</addr>
+        <lat>46.89252</lat>
+        <long>-124.1138636</long>
+    </radio_station>
+    <radio_station id="38">
+        <station>KGHE</station>
+        <type>Community</type>
+        <city>Elma, WA</city>
+        <state>WA</state>
+        <watt>255 Watts</watt>
+        <freq>89.1 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>Elma, WA</addr>
+        <lat>47.0072409</lat>
+        <long>-123.4074835</long>
+    </radio_station>
+    <radio_station id="39">
+        <station>KGIG</station>
+        <type>Community</type>
+        <city>Modesto, CA</city>
+        <state>CA</state>
+        <watt>100 Watts</watt>
+        <freq>104.9 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>Post Office Box #612 Salida CA 95368</addr>
+        <lat>38.0855821</lat>
+        <long>-121.089699</long>
+    </radio_station>
+    <radio_station id="40">
+        <station>KSUA</station>
+        <type>Community</type>
+        <city>Fairbanks, AK</city>
+        <state>AK</state>
+        <watt>3000 Watts</watt>
+        <freq>91.5 FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>PO Box 750113, Fairbanks, AK 99775</addr>
+        <lat>64.81707</lat>
+        <long>-147.87928</long>
+    </radio_station>
+    <radio_station id="41">
+        <station>KCSB</station>
+        <type>Community</type>
+        <city>Santa Barbara, CA</city>
+        <state>CA</state>
+        <watt>620 Watts</watt>
+        <freq>91.9 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Santa Barbara, CA 93106</addr>
+        <lat>34.4173386</lat>
+        <long>-119.8541036</long>
+    </radio_station>
+    <radio_station id="42">
+        <station>KRFP</station>
+        <type>Community</type>
+        <city>Moscow, ID</city>
+        <state>ID</state>
+        <watt>42 Watts</watt>
+        <freq>90.3 FM</freq>
+        <playedon />
+        <cast_time>6:30 and 9 am Weekdays</cast_time>
+        <addr>114 E. 3rd St., Moscow, ID 83843</addr>
+        <lat>46.7323614</lat>
+        <long>-117.0011277</long>
+    </radio_station>
+    <radio_station id="43">
+        <station>KPOV</station>
+        <type>Community</type>
+        <city>Bend, OR</city>
+        <state>OR</state>
+        <watt>1100 Watts</watt>
+        <freq>88.9 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>501 NW Bond St, Bend, OR 97701</addr>
+        <lat>44.0556339</lat>
+        <long>-121.3165671</long>
+    </radio_station>
+    <radio_station id="44">
+        <station>WOOL</station>
+        <type>LPFM</type>
+        <city>Bellow Falls, VT</city>
+        <state>VT</state>
+        <watt>6 Watts</watt>
+        <freq>100.1 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Bellows Falls, VT 05101</addr>
+        <lat>43.135805</lat>
+        <long>-72.452997</long>
+    </radio_station>
+    <radio_station id="45">
+        <station>WYAP</station>
+        <type>LPFM</type>
+        <city>Clay, West Virginia</city>
+        <state>WV</state>
+        <watt>100 Watts</watt>
+        <freq>101.7 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Clay, West Virginia</addr>
+        <lat>38.4611395</lat>
+        <long>-81.084924</long>
+    </radio_station>
+    <radio_station id="46">
+        <station>KMAS</station>
+        <type>Commercial</type>
+        <city>Shelton, WA</city>
+        <state>WA</state>
+        <watt>10,000 Watts</watt>
+        <freq>1030 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>210 W. Cota St., Shelton, WA</addr>
+        <lat>47.2122979</lat>
+        <long>-123.101786</long>
+    </radio_station>
+    
+    <radio_station id="47">
+        <station>Liberty and Justice Radio</station>
+        <type>LPFM</type>
+        <city>Shirley, MA</city>
+        <state />
+        <watt />
+        <freq>1640 AM, 87.9 FM, 95.1 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Shirley, MA</addr>
+        <lat>42.57959</lat>
+        <long>-71.643793</long>
+    </radio_station>
+
+    <radio_station id="49">
+        <station>KYRS</station>
+        <type>Community</type>
+        <city>Medical Lake, WA</city>
+        <state>WA</state>
+        <watt />
+        <freq>92.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>35 W. Main, Suite 340, Spokane, WA 99201</addr>
+        <lat>47.6591153</lat>
+        <long>-117.41032</long>
+    </radio_station>
+    <radio_station id="50">
+        <station>KYRS</station>
+        <type>Community</type>
+        <city>Medical Lake, WA</city>
+        <state>WA</state>
+        <watt>6800 Watts</watt>
+        <freq>88.1 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>36 W. Main, Suite 340, Spokane, WA 99201</addr>
+        <lat>47.6590816</lat>
+        <long>-117.411787</long>
+    </radio_station>
+    <radio_station id="51">
+        <station>WTND</station>
+        <type>LPFM</type>
+        <city>Macomb, IL</city>
+        <state>IL</state>
+        <watt>25 Watts</watt>
+        <freq>106.3 FM</freq>
+        <playedon />
+        <cast_time>4:54 PM Weekdays</cast_time>
+        <addr>PO Box 665, Macomb, IL 61455</addr>
+        <lat>40.4756635</lat>
+        <long>-90.6896089</long>
+    </radio_station>
+    <radio_station id="52">
+        <station>WFHB</station>
+        <type>Community</type>
+        <city>Bloomington, IN</city>
+        <state>IN</state>
+        <watt>1600 Watts</watt>
+        <freq>91.3 FM</freq>
+        <playedon />
+        <cast_time>5:30 PM Weekdays</cast_time>
+        <addr>108 W Fourth St, Bloomington, IN 47404</addr>
+        <lat>39.1655851</lat>
+        <long>-86.5337344</long>
+    </radio_station>
+    <radio_station id="53">
+        <station>WEFT</station>
+        <type>Community</type>
+        <city>Champaign</city>
+        <state>IL</state>
+        <watt>10,000 Watts</watt>
+        <freq>90.1 FM</freq>
+        <playedon />
+        <cast_time>11 AM Saturdays</cast_time>
+        <addr>113 N. Market St. Champaign, IL. 61820</addr>
+        <lat>40.1168357</lat>
+        <long>-88.2418623</long>
+    </radio_station>
+    <!--radio_station id="54">
+        <station>Radio Free</station>
+        <type>Online</type>
+        <city />
+        <state />
+        <watt />
+        <freq>RadioFree.org</freq>
+        <playedon />
+        <cast_time>Twice Daily</cast_time>
+        <addr />
+        <lat></lat>
+        <long></long>
+    </radio_station-->
+    <!--radio_station id="54">
+        <station>KMAS</station>
+        <type />
+        <city>Shelton, WA</city>
+        <state>WA</state>
+        <watt />
+        <freq>104.1 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>211 W. Cota St., Shelton, WA</addr>
+        <lat>47.2121465</lat>
+        <long>-123.1019559</long>
+    </radio_station-->
+        <radio_station id="54">
+        <station>KLAY</station>
+        <type>Commercial</type>
+        <city>Lakewood, WA</city>
+        <state>WA</state>
+        <watt>5000 Watts</watt>
+        <freq>1180 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>10025 Lakewood Dr. SW, Tacoma, WA 98499</addr>
+        <lat>47.16554</lat>
+        <long>-122.507397</long>
+    </radio_station>
+
+    <radio_station id="55">
+        <station>Radio Free</station>
+        <type>LPFM</type>
+        <city>Tucson, AZ</city>
+        <state>AZ</state>
+        <watt />
+        <freq>90.1 FM</freq>
+        <playedon />
+        <cast_time>Twice Daily</cast_time>
+        <addr>Tucson, AZ</addr>
+        <lat>32.1559094</lat>
+        <long>-110.883805</long>
+    </radio_station>
+    <!--radio_station id="56">
+        <station>U-Stream</station>
+        <type>Internet</type>
+        <city />
+        <state />
+        <watt />
+        <freq />
+        <playedon>Talking Left</playedon>
+        <cast_time>Saturdays</cast_time>
+        <addr />
+        <lat></lat>
+        <long></long>
+    </radio_station-->
+    <!--radio_station id="57">
+        <station>So-Flo Radio</station>
+        <type>Internet</type>
+        <city>Florida</city>
+        <state>FL</state>
+        <watt />
+        <freq />
+        <playedon>Talking Left</playedon>
+        <cast_time>Saturdays</cast_time>
+        <addr />
+        <lat></lat>
+        <long></long>
+    </radio_station-->
+        <radio_station id="56">
+        <station>WRNC</station>
+        <type>College</type>
+        <city>Ashland, WI</city>
+        <state>WI</state>
+        <watt>100 Watts</watt>
+        <freq>97.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>1411 Ellis Ave S, Ashland, WI 54806</addr>
+        <lat>46.5812948</lat>
+        <long>-90.8738469</long>
+    </radio_station>
+    <radio_station id="57">
+        <station>WOSH</station>
+        <type>Commercial</type>
+        <city>Oshkosh, WI</city>
+        <state>WI</state>
+        <watt>1000 Watts</watt>
+        <freq>1490 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>491 S Washburn Street Suite 400, Oshkosh WI 54904</addr>
+        <lat>44.0142828</lat>
+        <long>-88.5826881</long>
+    </radio_station>
+    <radio_station id="58">
+        <station>WORT</station>
+        <type>Community</type>
+        <city>Madison, WI</city>
+        <state>WI</state>
+        <watt>2000 Watts</watt>
+        <freq>89.9 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>118 S. Bedford St. Madison WI 53703</addr>
+        <lat>43.0673608</lat>
+        <long>-89.390818</long>
+    </radio_station>
+    <radio_station id="59">
+        <station>KRXA</station>
+        <type>Community</type>
+        <city>Carmel Valley, CA</city>
+        <state>CA</state>
+        <watt>10,000 Watts</watt>
+        <freq>540 AM</freq>
+        <playedon />
+        <cast_time />
+        <addr>495 Elder Avenue, Suite 8, Sand City, CA 93955</addr>
+        <lat>36.611911</lat>
+        <long>-121.852521</long>
+    </radio_station>
+    <radio_station id="60">
+        <station>WITT</station>
+        <type>Community</type>
+        <city>Zionsville, IN</city>
+        <state>IN</state>
+        <watt>6000 Watts</watt>
+        <freq>91.9 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>P.O. BOX 20563 INDIANAPOLIS, IN 46220</addr>
+        <lat>39.8687345</lat>
+        <long>-86.1019615</long>
+    </radio_station>
+    <radio_station id="61">
+        <station>WNDA</station>
+        <type>Community</type>
+        <city>New Albany, IN</city>
+        <state>IN</state>
+        <watt>1500 Watts</watt>
+        <freq>1570 AM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time>Saturdays</cast_time>
+        <addr>Clarksville, Indiana 47131</addr>
+        <lat>38.3269611</lat>
+        <long>-85.770815</long>
+    </radio_station>
+    <radio_station id="62">
+        <station>WLRS</station>
+        <type>Community</type>
+        <city>Eminence, KY</city>
+        <state>KY</state>
+        <watt>320 Watts</watt>
+        <freq>1066 AM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time>Saturdays</cast_time>
+        <addr>Eminence, KY</addr>
+        <lat>38.3649754</lat>
+        <long>-85.1745095</long>
+    </radio_station>
+    <radio_station id="63">
+        <station>WFTE</station>
+        <type>Community</type>
+        <city>Scranton, PA</city>
+        <state>PA</state>
+        <watt>3000 Watts</watt>
+        <freq>105.7 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Scranton, PA</addr>
+        <lat>41.4045295</lat>
+        <long>-75.661934</long>
+    </radio_station>
+    <radio_station id="64">
+        <station>WFTE</station>
+        <type>Community</type>
+        <city>Mt. Cobb</city>
+        <state>PA</state>
+        <watt>3000 Watts</watt>
+        <freq>90.3 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Mt. Cobb, PA</addr>
+        <lat>41.4224866</lat>
+        <long>-75.5002356</long>
+    </radio_station>
+    <radio_station id="65">
+        <station>WXXM</station>
+        <type>Community</type>
+        <city />
+        <state>WI</state>
+        <watt />
+        <freq>92.1 FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>PO Box 99, Madison, WI 53711</addr>
+        <lat>43.0203749</lat>
+        <long>-89.4036559</long>
+    </radio_station>
+    <!--radio_station id="66">
+        <station>NetrootsRadio.com</station>
+        <type>Internet</type>
+        <city />
+        <state />
+        <watt />
+        <freq />
+        <playedon />
+        <cast_time />
+        <addr />
+        <lat></lat>
+        <long></long>
+    </radio_station-->
+        <radio_station id="66">
+        <station>KBBR</station>
+        <type />
+        <city>Bend, OR</city>
+        <state>OR</state>
+        <watt>1000 Watts</watt>
+        <freq>1340 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>North Bend, OR</addr>
+        <lat>43.4044595</lat>
+        <long>-124.2383878</long>
+    </radio_station>
+    <radio_station id="67">
+        <station>WHPR</station>
+        <type>Internet</type>
+        <city>Detroit, MI</city>
+        <state>MI</state>
+        <watt />
+        <freq>88.1FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>160 Victor Street, Detroit, MI</addr>
+        <lat>42.408102</lat>
+        <long>-83.091829</long>
+    </radio_station>
+    <radio_station id="68">
+        <station>KMEC</station>
+        <type>Community</type>
+        <city>Ukiah, CA</city>
+        <state>CA</state>
+        <watt>75 Watts</watt>
+        <freq>105.1FM</freq>
+        <playedon>Union Edge</playedon>
+        <cast_time />
+        <addr>106 W Standley St, Ukiah, CA 95482</addr>
+        <lat>39.1506628</lat>
+        <long>-123.2082343</long>
+    </radio_station>
+     <radio_station id="69">
+        <station>WMPG</station>
+        <type>Community</type>
+        <city>Gorham, ME</city>
+        <state>ME</state>
+        <watt>4500 Watts</watt>
+        <freq>90.9FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>92 Bedford Street, Portland, ME</addr>
+        <lat>43.661311</lat>
+        <long>-70.275868</long>
+    </radio_station>
+    <radio_station id="70">
+        <station>WMPG</station>
+        <type>Community</type>
+        <city>Portland, ME</city>
+        <state>ME</state>
+        <watt>50 Watts</watt>
+        <freq>104.1FM</freq>
+        <playedon />
+        <cast_time />
+        <addr>Portland, ME</addr>
+        <lat>43.6799024</lat>
+        <long>-70.2610889</long>
+    </radio_station>
+    <radio_station id="71">
+        <station>KPHX</station>
+        <type>Community</type>
+        <city>Phoenix, AZ</city>
+        <state>AZ</state>
+        <watt>5000 Watts</watt>
+        <freq>1480 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>824 E. Washington St. Phoenix, AZ</addr>
+        <lat>33.4486009</lat>
+        <long>-112.062532</long>
+    </radio_station>
+    <radio_station id="72">
+        <station>KKRN</station>
+        <type>Community</type>
+        <city>Bella Vista, CA</city>
+        <state>CA</state>
+        <watt>600 Watts</watt>
+        <freq>88.5 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Montgomery Creek, CA 96065</addr>
+        <lat>40.9116074</lat>
+        <long>-121.8790699</long>
+    </radio_station>
+    <radio_station id="73">
+        <station>KPTR</station>
+        <type>Community</type>
+        <city>Palm Springs, CA</city>
+        <state>CA</state>
+        <watt>960 Watts</watt>
+        <freq>1450 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>2100 E. Tahquitz Canyon Way, Palm Springs CA 92262</addr>
+        <lat>33.8233811</lat>
+        <long>-116.5237249</long>
+    </radio_station>
+    <radio_station id="74">
+        <station>KDUP</station>
+        <type />
+        <city>Cedarville, CA</city>
+        <state>CA</state>
+        <watt>1000 Watts</watt>
+        <freq>88.1 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Cedarville, CA</addr>
+        <lat>41.52906</lat>
+        <long>-120.1732781</long>
+    </radio_station>
+    <radio_station id="75">
+        <station>KNYO</station>
+        <type />
+        <city>Fort Bragg, CA</city>
+        <state>CA</state>
+        <watt>87 Watts</watt>
+        <freq>107.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Fort Bragg, CA, 95437</addr>
+        <lat>39.4447555</lat>
+        <long>-123.8015855</long>
+    </radio_station>
+    <radio_station id="76">
+        <station>KGUA</station>
+        <type>Community</type>
+        <city>Fort Bragg, CA</city>
+        <state>CA</state>
+        <watt>2800 Watts</watt>
+        <freq>88.3 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>39108 Ocean Drive,  Gualala,  CA  95445</addr>
+        <lat>38.769833</lat>
+        <long>-123.530852</long>
+    </radio_station>
+    <radio_station id="77">
+        <station>KPFK</station>
+        <type>Community</type>
+        <city>Los Angeles, CA</city>
+        <state>CA</state>
+        <watt>110,000 Watts</watt>
+        <freq>88.3 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>3729 Cahuenga Blvd. West, North Hollywood, CA 91604</addr>
+        <lat>34.1351892</lat>
+        <long>-118.3618735</long>
+    </radio_station>
+    <radio_station id="77">
+        <station>KPFK</station>
+        <type>Community</type>
+        <city>Santa Barbara, CA</city>
+        <state>CA</state>
+        <watt />
+        <freq>98.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Santa Barbara, CA</addr>
+        <lat>34.4281937</lat>
+        <long>-119.702067</long>
+    </radio_station>
+    <radio_station id="78">
+        <station>KPFK</station>
+        <type>Community</type>
+        <city>San Diego, CA</city>
+        <state>CA</state>
+        <watt />
+        <freq>93.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>San Diego, CA</addr>
+        <lat>32.8245525</lat>
+        <long>-117.0951632</long>
+    </radio_station>
+    <radio_station id="79">
+        <station>KPFK</station>
+        <type>Community</type>
+        <city>Ridgecrest, CA</city>
+        <state>CA</state>
+        <watt />
+        <freq>99.5 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Ridgecrest, CA</addr>
+        <lat>35.6224426</lat>
+        <long>-117.661042</long>
+    </radio_station>
+    <radio_station id="80">
+        <station>KGOE</station>
+        <type>Community</type>
+        <city>Eureka, CA</city>
+        <state>CA</state>
+        <watt>5000 Watts</watt>
+        <freq>1480 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Eureka, CA</addr>
+        <lat>40.7832294</lat>
+        <long>-124.1462202</long>
+    </radio_station>
+    <radio_station id="81">
+        <station>KKZN</station>
+        <type>Community</type>
+        <city>Denver, CO</city>
+        <state>CO</state>
+        <watt>50,000 Watts</watt>
+        <freq>760 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>4695 South Monaco Street, Denver, CO 80237</addr>
+        <lat>39.628071</lat>
+        <long>-104.9122967</long>
+    </radio_station>
+    <radio_station id="82">
+        <station>WACC</station>
+        <type>College</type>
+        <city>Enfield, CT</city>
+        <state>CT</state>
+        <watt>100 Watts</watt>
+        <freq>107.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>170 Elm Street, Enfield, CT 06082</addr>
+        <lat>41.9984704</lat>
+        <long>-72.5753519</long>
+    </radio_station>
+    <radio_station id="83">
+        <station>WHUS</station>
+        <type>College</type>
+        <city>Storrs, CT</city>
+        <state>CT</state>
+        <watt>1200 Watts</watt>
+        <freq>91.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>2110 Hillside Road, Storrs, CT 06269-3008</addr>
+        <lat>41.8070508</lat>
+        <long>-72.2546431</long>
+    </radio_station>
+    <radio_station id="84">
+        <station>WPUL</station>
+        <type>Community</type>
+        <city>South Daytona, FL</city>
+        <state>FL</state>
+        <watt>1000 Watts</watt>
+        <freq>1590 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>427 Dr Martin Luther King Blvd South, Daytona Beach FL, 32114</addr>
+        <lat>29.201896</lat>
+        <long>-81.024659</long>
+    </radio_station>
+    <radio_station id="85">
+        <station>WMNF</station>
+        <type>Community</type>
+        <city>Tampa, FL</city>
+        <state>FL</state>
+        <watt>6650 Watts</watt>
+        <freq>88.5 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>1210 E. MLK Blvd. , Tampa, FL 33603-4417</addr>
+        <lat>27.9815488</lat>
+        <long>-82.4468339</long>
+    </radio_station>
+    <radio_station id="86">
+        <station>KWAI</station>
+        <type>Community</type>
+        <city>Honolulu, HI</city>
+        <state>HI</state>
+        <watt>5000 Watts</watt>
+        <freq>1080 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Mililani, HI  96789</addr>
+        <lat>21.461719</lat>
+        <long>-158.0134879</long>
+    </radio_station>
+    <radio_station id="87">
+        <station>WCPT</station>
+        <type>Community</type>
+        <city>Chicago, IL</city>
+        <state>IL</state>
+        <watt>1800 Watts</watt>
+        <freq>92.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>5475 N. Milwaukee Ave. Chicago, IL 60630</addr>
+        <lat>41.981311</lat>
+        <long>-87.772401</long>
+    </radio_station>
+    <radio_station id="88">
+        <station>WCPT</station>
+        <type>Community</type>
+        <city>Willow Springs, IL</city>
+        <state>IL</state>
+        <watt>5000 Watts</watt>
+        <freq>820 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Willow Springs, IL</addr>
+        <lat>41.7268011</lat>
+        <long>-87.8951579</long>
+    </radio_station>
+    <radio_station id="89">
+        <station>WCPT</station>
+        <type>Community</type>
+        <city>Dekalb, IL</city>
+        <state>IL</state>
+        <watt />
+        <freq>92.5 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Dekalb, IL</addr>
+        <lat>41.9281769</lat>
+        <long>-88.7463055</long>
+    </radio_station>
+    <radio_station id="90">
+        <station>WCPT</station>
+        <type>Community</type>
+        <city>Park Forest, IL</city>
+        <state>IL</state>
+        <watt />
+        <freq>99.9 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Park Forest, IL</addr>
+        <lat>41.4775319</lat>
+        <long>-87.6828445</long>
+    </radio_station>
+    <radio_station id="91">
+        <station>WHMP</station>
+        <type>Community</type>
+        <city>North Hampton, MA</city>
+        <state>MA</state>
+        <watt>1000 Watts</watt>
+        <freq>1400 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>15 Hampton Ave. Northampton, MA 01060</addr>
+        <lat>42.318371</lat>
+        <long>-72.629082</long>
+    </radio_station>
+    <radio_station id="92">
+        <station>WHMP</station>
+        <type>Community</type>
+        <city>Springfield, MA</city>
+        <state>MA</state>
+        <watt />
+        <freq>1240 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Springfield, MA</addr>
+        <lat>42.1128405</lat>
+        <long>-72.5463414</long>
+    </radio_station>
+    <radio_station id="93">
+        <station>WHMP</station>
+        <type>Community</type>
+        <city>Greenfield, MA</city>
+        <state>MA</state>
+        <watt />
+        <freq>96.9 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Greenfield, MA</addr>
+        <lat>42.611026</lat>
+        <long>-72.5948774</long>
+    </radio_station>
+    <radio_station id="94">
+        <station>WHAV</station>
+        <type>Internet</type>
+        <city>Haverhill, MA</city>
+        <state>MA</state>
+        <watt />
+        <freq />
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>189 Ward Hill Avenue, Haverhill, MA 01835</addr>
+        <lat>42.7622794</lat>
+        <long>-71.1182778</long>
+    </radio_station>
+    <radio_station id="95">
+        <station>KTNF</station>
+        <type>Community</type>
+        <city>Eden Prairie, MN</city>
+        <state>MN</state>
+        <watt>1000 Watts</watt>
+        <freq>950 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>11320 Valley View Road, Eden Prairie, MN 55344</addr>
+        <lat>44.86893</lat>
+        <long>-93.419978</long>
+    </radio_station>
+    <radio_station id="96">
+        <station>KBSR</station>
+        <type>Community</type>
+        <city>Laurel, MT</city>
+        <state>MT</state>
+        <watt>1000 Watts</watt>
+        <freq>1490 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Laurel, MT</addr>
+        <lat>45.674188</lat>
+        <long>-108.759191</long>
+    </radio_station>
+    <radio_station id="97">
+        <station>KHDN</station>
+        <type />
+        <city>Hardin, MT</city>
+        <state>MT</state>
+        <watt />
+        <freq>1230 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Hardin, MT</addr>
+        <lat>45.7441939</lat>
+        <long>-107.6110005</long>
+    </radio_station>
+    <radio_station id="98">
+        <station>KYLW</station>
+        <type />
+        <city>Lockwood, MT</city>
+        <state>MT</state>
+        <watt />
+        <freq>1450 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Lockwood, MT</addr>
+        <lat>45.8271795</lat>
+        <long>-108.422792</long>
+    </radio_station>
+    <radio_station id="99">
+        <station>WPVM</station>
+        <type>Community</type>
+        <city>Asheville, NC</city>
+        <state>NC</state>
+        <watt>100 Watts</watt>
+        <freq>103.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Asheville, NC</addr>
+        <lat>35.538932</lat>
+        <long>-82.5654054</long>
+    </radio_station>
+    <radio_station id="100">
+        <station>KZUM</station>
+        <type>Community</type>
+        <city>Lincoln, NE</city>
+        <state>NE</state>
+        <watt>1500 Watts</watt>
+        <freq>89.3 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>3534 S 48th St., Suite 6, Lincoln, NE 68506</addr>
+        <lat>40.7776512</lat>
+        <long>-96.6533846</long>
+    </radio_station>
+    <radio_station id="101">
+        <station>WNHN</station>
+        <type>Community</type>
+        <city>Concord, NH</city>
+        <state>NH</state>
+        <watt>45 Watts</watt>
+        <freq>94.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>26 Pleasant St. 2nd Floor Concord, NH 03301</addr>
+        <lat>43.2039968</lat>
+        <long>-71.536729</long>
+    </radio_station>
+    <radio_station id="102">
+        <station>WKVT</station>
+        <type>Community</type>
+        <city>Brattleboro, VT</city>
+        <state>VT</state>
+        <watt>1000 Watts</watt>
+        <freq>1490 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>458 Williams Street Brattleboro, VT 05301</addr>
+        <lat>42.847819</lat>
+        <long>-72.581162</long>
+    </radio_station>
+    <radio_station id="103">
+        <station>KABQ</station>
+        <type>Commercial</type>
+        <city>Albuquerque, NM</city>
+        <state>NM</state>
+        <watt>5000 Watts</watt>
+        <freq>1350 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>5411 Jefferson Ave Suite 100, ALBUQUERQUE, NM</addr>
+        <lat>35.1429572</lat>
+        <long>-106.5981507</long>
+    </radio_station>
+    <radio_station id="104">
+        <station>KTRC</station>
+        <type>Commercial</type>
+        <city>Santa Fe, NM</city>
+        <state>NM</state>
+        <watt>5000 Watts</watt>
+        <freq>1260 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>2502 Camino Entrada, Suite C, Santa Fe, NM 87507</addr>
+        <lat>35.637847</lat>
+        <long>-106.020363</long>
+    </radio_station>
+    <radio_station id="105">
+        <station>WCWP</station>
+        <type>Community</type>
+        <city>Brookville, NY</city>
+        <state>NY</state>
+        <watt>100 Watts</watt>
+        <freq>88.1 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>720 Northern Blvd, Brookville, NY 11548</addr>
+        <lat>40.8190835</lat>
+        <long>-73.5933995</long>
+    </radio_station>
+    <radio_station id="106">
+        <station>WBAI</station>
+        <type>Community</type>
+        <city>Brooklyn, NY</city>
+        <state>NY</state>
+        <watt>4300 Watts</watt>
+        <freq>99.5 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>388 Atlantic Avenue, Brooklyn, NY 11217</addr>
+        <lat>40.6869514</lat>
+        <long>-73.9855672</long>
+    </radio_station>
+    <radio_station id="107">
+        <station>WNYY</station>
+        <type />
+        <city>Ithaca, NY</city>
+        <state>NY</state>
+        <watt>1000 Watts</watt>
+        <freq>1470 AM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>1751 Hanshaw Road Ithaca, NY 14850</addr>
+        <lat>42.474676</lat>
+        <long>-76.4300389</long>
+    </radio_station>
+    <radio_station id="108">
+        <station>WUDR</station>
+        <type>College</type>
+        <city>Dayton, OH</city>
+        <state>OH</state>
+        <watt>13 Watts</watt>
+        <freq>98.1 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>300 College Park, Dayton, OH 45469</addr>
+        <lat>39.740267</lat>
+        <long>-84.1801454</long>
+    </radio_station>
+    <radio_station id="109">
+        <station>KSOW</station>
+        <type>Community</type>
+        <city>Astoria, OR</city>
+        <state>OR</state>
+        <watt>100 Watts</watt>
+        <freq>106.7 FM</freq>
+        <playedon>Thom Hartmann</playedon>
+        <cast_time />
+        <addr>Cottage Grove, OR</addr>
+        <lat>43.795799</lat>
+        <long>-123.05404</long>
+    </radio_station>
+
+
+
+
+</root>
