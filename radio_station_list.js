@@ -20,33 +20,33 @@ jQuery(document).ready(
                 var radio = radios[i];
                 var station_name = radio.getElementsByTagName("station");
                 var station_state = radio.getElementsByTagName("state");
-                var station_addr = radio.getElementsByTagName("addr");
+                 var station_cityState = radio.getElementsByTagName("city");
                 //var station_lat = radio.getElementsByTagName("lat");
                 //var station_long = radio.getElementsByTagName("long");
                 var station_casttime = radio.getElementsByTagName("cast_time");
                 var station_freq = radio.getElementsByTagName("freq");
 
-                var name = "", state = "", addr = "", cast = "", freq = "";
+                var name = "", state="", city_state = "", cast = "", freq = "";
                 if (station_state[0].firstChild !== null) {
                     state = station_state[0].firstChild.nodeValue;
                     if (station_name[0].firstChild !== null) {
                         name = station_name[0].firstChild.nodeValue;
                     }
 
-                    if (station_addr[0].firstChild !== null) {
-                        addr = station_addr[0].firstChild.nodeValue;
+                    if (station_cityState[0].firstChild !== null) {
+                        city_state = ", " + station_cityState[0].firstChild.nodeValue;
                     }
                     if (station_casttime[0].firstChild !== null) {
-                        cast = station_casttime[0].firstChild.nodeValue;
+                        cast =  ", " + station_casttime[0].firstChild.nodeValue;
                     }
                     if (station_freq[0].firstChild !== null) {
-                        freq = station_freq[0].firstChild.nodeValue;
+                        freq = ", " +  station_freq[0].firstChild.nodeValue;
                     }
                     //find corresponding li
                     var accorLi = jQuery("#accordion").find("." + state + " ul");
                     if (accorLi !== null) {
                         accorLi.append("<li><span class='radio_name'>"+ name + "</span>"
-                               /* +"<span class='radio_addr'>" + addr + "</span>"*/
+                               +"<span class='radio_cityState'>" + city_state + "</span>"
                                 +"<span class='radio_freq'>"+freq+"</span>"
                                 +"<span class='radio_cast'>"+cast+"</span></li>");
                     } else {
